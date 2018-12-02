@@ -56,3 +56,30 @@ ul {
   margin: 0;
   font-family: Georgia, serif;
 }
+
+li {
+  display: inline-block;
+  margin-bottom: .3em;
+}
+
+main {
+  margin: 0.75em;
+}
+
+p {
+  font-family: Georgia, serif;
+}
+
+img {
+  display: block;
+  width: 100%
+}
+
+a:hover {
+  background-color: #cc1465;
+}
+
+body {
+  margin: 0;
+  background-color: #fff;
+}
